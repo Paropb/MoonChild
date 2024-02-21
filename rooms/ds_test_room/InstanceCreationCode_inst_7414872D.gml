@@ -1,0 +1,1 @@
+scr_game_script("npc_lucy");
